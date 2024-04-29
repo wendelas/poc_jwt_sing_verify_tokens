@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+lib/
+node_modules
+npm-debug*
+/_COVERAGE/
+/.project
+/test-report.xml
+/testit.sh
+/package-lock.json
+dist/
+.DS_Store
+
+# jest coverage
+/coverage
+
+mongo.js
